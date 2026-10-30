@@ -2,7 +2,8 @@
 # Community Food Bank
 
 ## Student Information
-- Name: [Your Full Name]
+- Name: Jamirul Habib Bappy
+- Student_Id: 4374239
 - Assignment: Python Final Exam — Community Food Bank
 
 ## Description
